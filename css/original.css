@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: #F5699C;
+  background-color: #FF9100;
 }
 
 section {
@@ -49,8 +49,8 @@ section {
  */
 
 .hero {
-  background-color: #F5699C;
-  min-height: 110vh;
+  background-color: #FF9100;
+  min-height: 80vh;
 }
 
 .hero img {
@@ -65,7 +65,7 @@ section {
 }
 
 .hero .wrapper {
-  padding-top: 30vh;
+  padding-top: 15vh;
 }
 
 .hero .wrapper h1 {
@@ -217,7 +217,7 @@ section {
  */
 
 .footer {
-  background-color: #F5699C;
+  background-color: #FF9100;
   color: #fff;
   padding: 30px 0;
 }
