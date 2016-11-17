@@ -24,19 +24,20 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "NUST HACKATHON | January 2017"
-  description: "Two Day Open Source Event Full of Hack Activities."
+  title:       "NUST HACKATHON | Dec 3, 2016"
+  description: "Learn Open Source & Build Cool Hack Projects!"
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
   name:        "NUST HACKATHON"
-  description: "Two Day Open Source Event Full of Hack Activities!"
-  date:        "15 & 16 January 2017"
+  description: "Learn Open Source & Build Cool Hack Projects!"
+  short-description: "(and win prizes and swag.)"
+  date:        "Dec 3, 2016"
   location:    "Islamabad, Pakistan"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2016"  # season year
     region: "eu"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
@@ -50,50 +51,72 @@ event:
         href: "mailto:usmanwardag@gmail.com"
 
   about:
-    description: >
-      List of hacks developed during the first hack day, so students know what to expect.
+    description1: >
+      Open source makes it easier to contribute to projects because everybody uses same set of tools, 
+      and because projects are based on a common platform.
+
+    description2: >
+      The goal of the hack day is to make you love these tools, so you use them all the time in your
+      future projects. We will be covering talks from past Google Summer of Code 
+
+      To give a hands-on experience, we are covering two main streams: mobile and web
+      development, and machine learning. For both these streams, participants (with the help of mentors)
+      will work on exciting, cutting-edge problems.
+
+    description3: >
+      Still not convinced? This event is being sponsored by Github & MLH, and they will be sending goodies
+      and swag for all participants. For web development stream, we will be giving away free domains (as a 
+      bonus) and for machine learning stream, you will get dedicated Azure access to do imaginative experiments!
+
   # Info Sections
   info:
     sections:
-      - image: "images/image1.png"
-        title: "OPEN-SOURCE."
+      - image: "images/open.png"
+        title: "OPEN-SOURCE"
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image2.png"
-        title: "GREAT MENTORS."
+          Learn about Git, Github and unit testing and set your first open-source project. Learn how to
+          commit, create pull requests and organize your projects. 
+      - image: "images/ml.png"
+        title: "MACHINE LEARNING"
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image3.png"
-        title: "HACKING."
+          Learn when and where to use different machine learning techniques. Use dedicated Azure access to work on 
+          cutting-edge problems.
+      - image: "images/webdev.png"
+        title: "MOBILE & WEB"
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Learn how to set up your website using jekyll and Wordpress. Create your first app in Android and iOS,
+          and learn advanced design strategies!
 
   # Frequently asked questions.
   faq:
-    - question: "What is a hackathon?"
+    - question: "What is the hack day about?"
       answer: >
-        A hackathon is an invention marathon. Students come together to build cool
-        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
-    - question: "How much does it cost?"
+        The hack day is about learning open-source and building hacks in machine learning and development domains.
+        A detailed schedule will be shared soon. 
+    - question: "Why do I need to learn open source?"
       answer: >
-        Nothing. Attending a hackathon is free.
+        Open source makes it easier to contribute to projects because everybody uses same set of tools, 
+        and because projects are based on a common platform. In 2014, venture capitalists invested $2,400,000,000 
+        into Open Source focused companies.
+    - question: "How much does it cost to attend?"
+      answer: >
+        Nothing. Attending hack day is free.
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only students who are currently enrolled at any school of NUST or
-        have graduated within the past 12 months are eligible to attend.
+        Yes. Only university students can apply.
+    - question: "What kind of projects will I work on?"
+      answer: >
+        We will share the challenges soon.
     - question: "Where is the event?"
       answer: >
-        Venue will be shared soon.
+        School of Electrical Engineering & Computer Sciences, NUST.
     - question: "Are there any prizes for winners?"
       answer: >
-        Yes, we are in contact with some sponsors to make sure winners are rewarded!
+        Yes, Github/MLH is arranging goodies and swag. Besides, each participant will get a free domain and dedicated
+        Azure access.
     - question: "Would there be food?"
       answer: >
         Yes!
-    - question: "What do you mean by open source?"
-      answer: >
-        All the hacks that you build over the duration of hackathon would be shared publicly. This allows you 
-        to develop your open source presence to impress your future employers.
     - question: "Is there a code of conduct?"
       answer: >
         Yes, we follow the one designed by MLH for reference, and we enforce it very strongly. You can

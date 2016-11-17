@@ -64,6 +64,10 @@ section {
   top: -14px;
 }
 
+.h4{
+  
+}
+
 .hero .wrapper {
   padding-top: 15vh;
 }
@@ -87,6 +91,12 @@ section {
   font-size: 20px;
   font-weight: 200;
   padding-bottom: 35px;
+}
+
+.hero .wrapper h4 {
+  font-size: 15px;
+  font-weight: 200;
+  padding-bottom: 5px;
 }
 
 .hero .buttons {
@@ -131,8 +141,8 @@ section {
 
 .about p {
   color: #0F2C34;
-  font-weight: 600;
-  font-size: 22px;
+  font-weight: 400;
+  font-size: 20px;
   line-height: 1.6em;
   letter-spacing: -.3px;
 }
@@ -170,6 +180,7 @@ section {
 
 .info .item p {
   font-size: 20px;
+  font-weight:450;
 }
 
 /*
